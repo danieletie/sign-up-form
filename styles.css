@@ -186,6 +186,11 @@ input[type="password"]:invalid {
   /* background-color: #ffe6e6; */
 }
 
+input[type="password"]:valid {
+  border: 2px solid #85c890;
+  /* background-color: #ffe6e6; */
+}
+
 form > div {
   display: flex;
   padding-right: 20px;
